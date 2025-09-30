@@ -141,4 +141,3 @@ class AccessibleLogoutView(TemplateView):
             return candidate
         return str(self.default_redirect)
 
-
